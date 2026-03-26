@@ -1,6 +1,6 @@
 # PowerShell Compiler
 Yet Another PowerShell 5.1+ Compiler to EXE.  
-Fully vibe-coded with Claude (Sonnet 4.6)
+Fully vibe-coded with Claude (Sonnet 4.6) with some manual adjustments
 
 Compiles a PowerShell script (.ps1) into a standalone Windows EXE.
 
